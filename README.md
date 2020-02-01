@@ -11,15 +11,16 @@
 <p> 4. C-scan program </p>
 <p> 5. Look program </p>
 <p> 6.  C-look program</p>
-<p>
-                      all have same input :
-          -                a) no of queries
-            -              b) request 
-            -              c) initialize head
-             -             d)  display
+
+ <p>                     all have same input :</p>
+ <p>                         a) no of queries </p>
+ <p>                         b) request        </p>
+ <p>                         c) initialize head  </p>
+ <p>                         d) and  display    </p>
   </p>
                       
-   Thank you
+  <h4 align="left"> Thank you
+   </h4>
    
    ------
    
